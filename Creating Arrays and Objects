@@ -1,0 +1,11 @@
+let clothes = [] ;
+clothes.push("cargo pants", "flannel shirt", "beanies", "vests", "hoodies") ; 
+clothes.pop();
+clothes.push("glasses");
+console.log(clothes[2]);
+console.log(clothes);
+let favCar= {};
+favCar.color = "black"
+favCar.convertible = false ; 
+console.log(favCar); 
+
