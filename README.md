@@ -1,5 +1,3 @@
-# hello-world-
-coding exercises 
 
 Hello World! :)
 
