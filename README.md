@@ -9,5 +9,8 @@ I've been doing countless coding excercises the last year, and working on variou
 -completed a mock interview prep guide worksheet on answering four questios using the STAR method
 -completed tutorials on bugs and errors on the Intro to Front-End development course
 
+12/30/2022
+-changed the idea of doing a simple to-do-list app, to a long-term passion project called my diary of obsessions where those who are more adhd prone on hyperfixations can connect on their favorite topics in a more immediate way
+-hoping to incorporate bootstrap components to make the website have responsive layouts and imaging 
 
 
